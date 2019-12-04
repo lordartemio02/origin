@@ -10,7 +10,7 @@ ButUstr::ButUstr()
 ButUstr::~ButUstr()
 {
 }
-
+//ОПисание бытовых устройтсв
 ButUstr::ButUstr(std::string firm,std::string model, int ves, int temp, std::string regum, int god)
 {
 	firm_ = firm;
